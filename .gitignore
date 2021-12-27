@@ -1,0 +1,8 @@
+/.dist
+/.idea
+/.webpack
+/node_modules
+/reports
+/package-lock.json
+/test-report.json
+
