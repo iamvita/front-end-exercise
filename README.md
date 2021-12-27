@@ -13,7 +13,7 @@ Redux
 Jest
 ```
 
-##Features
+## Features
 
 - View list of All Orders loaded from `githubusercontent` 
 - View list of only Shipped Orders
